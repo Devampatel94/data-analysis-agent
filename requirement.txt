@@ -1,0 +1,10 @@
+together
+pdfplumber
+python-docx
+exception
+matplotlib
+pandas
+plotly
+streamlit
+openpyxl
+pytesseract
